@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="text1">Прогноз погоды</string>
+    <string name="text2">Температура = </string>
+    <string name="text4">Ветер = </string>
+    <string name="text5">Влажность = </string>
+    <string name="text7">Напишите название населенного пункта или выберите из списка:</string>
+    <string name="button">Поиск</string>
+    <string name="item">Пункт</string>
+    <string name="buttonBack">Назад</string>
+    <string name="buttonHistory">История погоды</string>
+    <string name="error">Ошибка!</string>
+    <string name="place_not_found">Место не найдено!</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="input_edit_text">Введите город</string>
+    <string name="current_weather">Показать текушую погоду</string>
+</resources>

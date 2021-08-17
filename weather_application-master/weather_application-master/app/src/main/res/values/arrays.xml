@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>St Petersburg</item>
+        <item>Novosibirsk</item>
+        <item>Nizhniy Novgorod</item>
+        <item>Rostov-on-Don</item>
+        <item>Krasnodar</item>
+        <item>Sochi</item>
+    </string-array>
+    <string-array name="lat">
+        <item>55.75</item>
+        <item>59.9387</item>
+        <item>55.03</item>
+        <item>56.33</item>
+        <item>47.22</item>
+        <item>45.04</item>
+        <item>43.6</item>
+    </string-array>
+    <string-array name="lon">
+        <item>37.62</item>
+        <item>30.3162</item>
+        <item>82.92</item>
+        <item>44</item>
+        <item>39.72</item>
+        <item>38.98</item>
+        <item>39.73</item>
+    </string-array>
+</resources>

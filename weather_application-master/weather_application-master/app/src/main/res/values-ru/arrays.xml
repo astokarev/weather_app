@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Нижний Новгород</item>
+        <item>Ростов-на-Дону</item>
+        <item>Краснодар</item>
+        <item>Сочи</item>
+    </string-array>
+    <string-array name="lat">
+        <item>55.75</item>
+        <item>59.56</item>
+        <item>55.03</item>
+        <item>56.33</item>
+        <item>47.22</item>
+        <item>45.04</item>
+        <item>43.6</item>
+    </string-array>
+    <string-array name="lon">
+        <item>37.62</item>
+        <item>30.19</item>
+        <item>82.92</item>
+        <item>44</item>
+        <item>39.72</item>
+        <item>38.98</item>
+        <item>39.73</item>
+    </string-array>
+</resources>
